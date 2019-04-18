@@ -6,7 +6,7 @@
   - mysql
 
 ## Install
- - conposer install
+ - composer install
  - npm install
 
 ## 參考
